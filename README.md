@@ -1,6 +1,6 @@
-# template-nix-ocaml
+# OCaml 99 Problems Solutions by Aumy
 
-OCaml + Nix + direnv!
+Solutions for https://v3.ocaml.org/problems. Run tests by running `dune test -w`.
 
 ## Usage
 
